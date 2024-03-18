@@ -75,3 +75,16 @@ Variável é tudo que está sujeito a variações, que é incerto, instável ou 
 Todo dado a ser armazenado na memória de um computador deve ser previamente identificado segundo seu tipo, ou seja, primeiramente é necessário saber o tipo do dado para depois fazer seu armazenamento adequado. Armazenado o dado, ele pode ser utilizado e processado a qualquer momento. 
 ![image](https://github.com/igarashimassaki/LinguagemPython/assets/154282630/85ff4a80-f150-445b-9fec-2b2c51b98871)
 
+#ENTRADAS DO PROGRAMA
+  # Imprimir("Digite a: ") e ler_e_guardar(a)
+a = input("Digite a:")
+  # Imprimir("Digite b: ") e ler_e_guardar(b)
+b = input("Digite b:")
+#PROCESSAMENTO
+  # Processar soma = real(a) + real(b)
+soma = float(a) + float(b)
+#SAÍDA NA TELA
+  #Imprimir(soma)
+print(soma)
+![image](https://github.com/igarashimassaki/LinguagemPython/assets/154282630/b6a3097b-0545-42b5-af2e-0182d1184c0d)
+
