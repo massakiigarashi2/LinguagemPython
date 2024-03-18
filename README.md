@@ -69,3 +69,9 @@ Programa para obter a previsão do tempo para a cidade cujo nome você fornecer.
 ![Em_Desenvolvimento](https://github.com/igarashimassaki/LinguagemPython/blob/main/desenvolvimento.jpg)
 
 </div>
+
+Variável é tudo que está sujeito a variações, que é incerto, instável ou inconstante. Quando se fala de computadores, é preciso ter em mente que o volume de dados a serem tratados é grande e diversificado. Dessa forma, os dados a serem processados são bastante variáveis.
+
+Todo dado a ser armazenado na memória de um computador deve ser previamente identificado segundo seu tipo, ou seja, primeiramente é necessário saber o tipo do dado para depois fazer seu armazenamento adequado. Armazenado o dado, ele pode ser utilizado e processado a qualquer momento. 
+![image](https://github.com/igarashimassaki/LinguagemPython/assets/154282630/85ff4a80-f150-445b-9fec-2b2c51b98871)
+
