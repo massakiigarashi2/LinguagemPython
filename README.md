@@ -88,3 +88,6 @@ soma = float(a) + float(b)
 print(soma)
 ![image](https://github.com/igarashimassaki/LinguagemPython/assets/154282630/b6a3097b-0545-42b5-af2e-0182d1184c0d)
 
+Exemplo 01: Crie um código em linguagem Python p/ Solicitar 2 valores a e b e em seguida calcular e exibir o resultado.
+![image](https://github.com/igarashimassaki/LinguagemPython/assets/154282630/0650070c-30f8-419a-9190-97f2d99244cf)
+
