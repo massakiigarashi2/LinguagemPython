@@ -91,3 +91,16 @@ print(soma)
 Exemplo 01: Crie um código em linguagem Python p/ Solicitar 2 valores a e b e em seguida calcular e exibir o resultado.
 ![image](https://github.com/igarashimassaki/LinguagemPython/assets/154282630/0650070c-30f8-419a-9190-97f2d99244cf)
 
+Regras para   
+identificadores:
+
+Um identificador pode ter até 32 caracteres de comprimento.
+O 1º caractere deve ser uma letra do alfabeto.
+Os demais caracteres podem ser letras, números ou sinal underscore (_)
+Não usar sinais de pontuação, caracteres acentuados, cedilha (ç) ou espaço em branco.
+Exemplos de identificadores: Nome, Nome_Cliente, Nome_Completo, Data, Data_Emissao, Mensagem, Aviso, 1aSemana, Endereco, a, b, c, ..., X, Y, Z.
+
+Uma variável representa um contêiner ou espaço na memória física ou virtual de um computador, onde diferentes tipos de dados (valores) são armazenados durante a execução de um programa. A cada variável é atribuído um nome descritivo ou identificador que se refere ao valor salvo.
+
+Elas são importantes para o funcionamento de programas e aplicações que lidam com cálculos, condições, repetições e qualquer outro dado mutável durante o seu funcionamento.
+![image](https://github.com/igarashimassaki/LinguagemPython/assets/154282630/f8f85dc0-47ab-4261-9b5a-4217776865f8)
